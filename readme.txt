@@ -7,8 +7,4 @@ Github test.
 Creating a new branch is quick.
 test
 Creating a new branch is quick and simple2.
-<<<<<<< HEAD
-add merge1.
-=======
-add merge2.
->>>>>>> to
+add merge3.
