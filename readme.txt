@@ -8,8 +8,4 @@ Creating a new branch is quick.
 test
 Creating a new branch is quick and simple2.
 add merge3.
-<<<<<<< HEAD
-Bug fixed.
-=======
 rebase test.
->>>>>>> rebase
